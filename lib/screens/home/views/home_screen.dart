@@ -26,9 +26,16 @@ class HomeScreen extends StatelessWidget {
             icon: Icon(CupertinoIcons.graph_square_fill),
             label: 'Stats'
             )
-            ]
+          ]
         ),
       ),
+      floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked,
+      floatingActionButton: FloatingActionButton(
+        onPressed: () {},
+        child: const Icon(
+          CupertinoIcons.add
+        ),
+        ),
     );
   }
 }
