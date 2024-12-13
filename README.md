@@ -29,7 +29,7 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi:
 1. **Klon repositori**:
    
 bash
-   git clone https://github.com/romain-girou/expenses_tracker.git
+   git clone https://github.com/MuhammadHeikalFasya/expense_tracker_app.git
    cd expenses_tracker
 
 
@@ -38,4 +38,32 @@ bash
 bash
    flutter pub get
 
+3. **Konfigurasi Firebase**:
+   - Buat proyek di Firebase Console.
+   - Tambahkan aplikasi Android atau iOS.
+   - Unduh file google-services.json atau GoogleService-Info.plist sesuai platform.
+   - Tempatkan file tersebut di direktori proyek Anda.
 
+4. **Jalankan aplikasi**:
+   - Pastikan perangkat fisik atau emulator sudah aktif.
+   
+bash
+   flutter run
+
+---
+
+## 🚀 **Cara Menggunakan**
+
+1. **Login atau Daftar**:
+   Masuk menggunakan akun Google atau buat akun baru.
+
+2. **Tambahkan Pengeluaran**:
+   Isi detail pengeluaran seperti nama, jumlah, dan kategori.
+
+3. **Analisis Pengeluaran**:
+   Lihat riwayat dan analisis pola pengeluaran Anda melalui grafik interaktif.
+
+4. **Edit atau Hapus Data**:
+   Lakukan perubahan pada pengeluaran yang sudah dicatat jika diperlukan.
+
+---
