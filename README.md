@@ -27,16 +27,12 @@
 Ikuti langkah-langkah berikut untuk menjalankan aplikasi:
 
 1. **Klon repositori**:
-   
-bash
-   git clone https://github.com/MuhammadHeikalFasya/expense_tracker_app.git
+   bash git clone https://github.com/MuhammadHeikalFasya/expense_tracker_app.git
    cd expenses_tracker
 
 
 2. **Instal dependensi Flutter**:
-   
-bash
-   flutter pub get
+   bash flutter pub get
 
 3. **Konfigurasi Firebase**:
    - Buat proyek di Firebase Console.
@@ -46,9 +42,7 @@ bash
 
 4. **Jalankan aplikasi**:
    - Pastikan perangkat fisik atau emulator sudah aktif.
-   
-bash
-   flutter run
+   bash flutter run
 
 ---
 
@@ -67,3 +61,23 @@ bash
    Lakukan perubahan pada pengeluaran yang sudah dicatat jika diperlukan.
 
 ---
+
+## 🤝 **Tim Pengembang**
+
+**Pelacak Pengeluaran** adalah hasil kolaborasi dari Tim Programmer Dadakan, yang terdiri dari:
+
+- Muhammad Heikal Fasya
+- Syariqul Husni
+- M. Taufan Hidayat
+- Suci Wildani Rizka
+- Nabila Balqis
+
+---
+
+## 🙏 **Penghargaan**
+
+Kami mengucapkan terima kasih kepada komunitas Flutter dan Firebase atas sumber daya dan dukungannya. 
+
+---
+
+Mari kelola keuangan Anda dengan lebih baik bersama **Expense Tracker App**! 🌊
