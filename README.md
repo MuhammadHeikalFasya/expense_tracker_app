@@ -1,26 +1,41 @@
-# 🌟 Expense Tracker App
+# 🌟 **Expense Tracker App**
 
-**Expense Tracker App** adalah aplikasi sederhana dan intuitif untuk melacak pengeluaran harian Anda. Proyek ini bertujuan membantu pengguna mengelola keuangan secara efektif dengan memberikan gambaran jelas tentang pola pengeluaran mereka.
-
----
-
-## ✨ Fitur
-
-- 📝 **Tambahkan Pengeluaran**: Catat pengeluaran harian Anda dengan mudah.
-- 🗂️ **Kategorikan Pengeluaran**: Tetapkan kategori untuk pengeluaran Anda agar lebih terorganisir.
-- 📜 **Lihat Riwayat**: Akses daftar semua pengeluaran yang telah dicatat.
-- 📊 **Visualisasi Data**: Lihat pengeluaran Anda dalam bentuk grafik untuk wawasan yang lebih baik.
-- 🔒 **Autentikasi Pengguna**: Amankan data Anda dengan fitur login dan registrasi.
+**Expense Tracker App** adalah aplikasi cerdas untuk membantu Anda mengelola pengeluaran harian secara efisien. Dikembangkan menggunakan Flutter dan Firebase, aplikasi ini menawarkan pengalaman pengguna yang responsif dengan pendekatan modern melalui Bloc Pattern. Jadikan pengelolaan keuangan lebih mudah dan terorganisir!
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## ✨ **Fitur Utama**
 
-Proyek ini dibangun menggunakan teknologi berikut:
-
-- **Frontend**: Flutter 🐦
-- **Backend**: Node.js dengan Express 🌐
-- **Database**: MongoDB 🍃
-- **Autentikasi**: JSON Web Tokens (JWT) 🔑
+- 🖋 **Tambah dan Edit Pengeluaran**: Kelola data pengeluaran dengan cepat dan mudah.
+- 🗂️ **Kategori Pengeluaran**: Atur pengeluaran berdasarkan kategori untuk pengelompokan yang lebih jelas.
+- 🔜 **Riwayat Pengeluaran**: Akses daftar lengkap pengeluaran Anda kapan saja.
+- 📊 **Grafik Interaktif**: Analisis pola pengeluaran melalui visualisasi data yang menarik.
+- 🔐 **Keamanan Tingkat Tinggi**: Login dan simpan data Anda dengan aman menggunakan Firebase Authentication.
 
 ---
+
+## 🛠️ **Teknologi yang Digunakan**
+
+- **Frontend**: Flutter 🐧
+- **Backend**: Firebase (Authentication & Firestore) 🔥
+- **State Management**: Bloc Pattern ⚡
+
+---
+
+## ⚙️ **Instalasi**
+
+Ikuti langkah-langkah berikut untuk menjalankan aplikasi:
+
+1. **Klon repositori**:
+   
+bash
+   git clone https://github.com/romain-girou/expenses_tracker.git
+   cd expenses_tracker
+
+
+2. **Instal dependensi Flutter**:
+   
+bash
+   flutter pub get
+
+
