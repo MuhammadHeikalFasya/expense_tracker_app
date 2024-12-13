@@ -21,7 +21,7 @@ class MainScreen extends StatelessWidget {
                   ),
                 ),
                 const SizedBox(width: 8),
-                const Column(
+                Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     Text(
@@ -29,9 +29,17 @@ class MainScreen extends StatelessWidget {
                       style: TextStyle(
                         fontSize: 12,
                         fontWeight: FontWeight.w600,
+                        color: Theme.of(context).colorScheme.outline
                       ),
                     ),
-                    Text("John Doe"),
+                    Text("John Doe",
+                    style: TextStyle(
+                        fontSize: 18,
+                        fontWeight: FontWeight.bold,
+                        color: Theme.of(context).colorScheme.onBackground
+                      ),
+                    ),
+                    
                   ],
                 ),
               ],
