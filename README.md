@@ -1,16 +1,26 @@
-# expense_tracker_app
+# 🌟 Expense Tracker App
 
-A new Flutter project.
+**Expense Tracker App** adalah aplikasi sederhana dan intuitif untuk melacak pengeluaran harian Anda. Proyek ini bertujuan membantu pengguna mengelola keuangan secara efektif dengan memberikan gambaran jelas tentang pola pengeluaran mereka.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Fitur
 
-A few resources to get you started if this is your first Flutter project:
+- 📝 **Tambahkan Pengeluaran**: Catat pengeluaran harian Anda dengan mudah.
+- 🗂️ **Kategorikan Pengeluaran**: Tetapkan kategori untuk pengeluaran Anda agar lebih terorganisir.
+- 📜 **Lihat Riwayat**: Akses daftar semua pengeluaran yang telah dicatat.
+- 📊 **Visualisasi Data**: Lihat pengeluaran Anda dalam bentuk grafik untuk wawasan yang lebih baik.
+- 🔒 **Autentikasi Pengguna**: Amankan data Anda dengan fitur login dan registrasi.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Teknologi yang Digunakan
+
+Proyek ini dibangun menggunakan teknologi berikut:
+
+- **Frontend**: Flutter 🐦
+- **Backend**: Node.js dengan Express 🌐
+- **Database**: MongoDB 🍃
+- **Autentikasi**: JSON Web Tokens (JWT) 🔑
+
+---
